@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Rufus\\Documents\\Work\\Projects\\pokemon-cron-mongoose\\src\\logs\\debug\\.b2ef641762824d88e597d3d8fcce14ef90d6be18-audit.json",
+    "files": [
+        {
+            "date": 1667209273056,
+            "name": "C:\\Users\\Rufus\\Documents\\Work\\Projects\\pokemon-cron-mongoose\\src\\logs\\debug\\2022-10-31.log",
+            "hash": "534f9be81a13cf8ef015bb8bf01fbb15f740c43d9db5e30322a35bc2aa60a012"
+        },
+        {
+            "date": 1667274473197,
+            "name": "C:\\Users\\Rufus\\Documents\\Work\\Projects\\pokemon-cron-mongoose\\src\\logs\\debug\\2022-11-01.log",
+            "hash": "e59695f296d4528c7ea5657a173afcdf338eeae99dfc5f51462aaf8c872a0d1c"
+        },
+        {
+            "date": 1667457580946,
+            "name": "C:\\Users\\Rufus\\Documents\\Work\\Projects\\pokemon-cron-mongoose\\src\\logs\\debug\\2022-11-03.log",
+            "hash": "170241b83f203d5e487d1afbc223bb60da8fcb0bfd5dd31bd426ebb0cedc94a4"
+        },
+        {
+            "date": 1667543678403,
+            "name": "C:\\Users\\Rufus\\Documents\\Work\\Projects\\pokemon-cron-mongoose\\src\\logs\\debug\\2022-11-04.log",
+            "hash": "4527bfa078c41da7877ba099d499b8c69aa617f2aac2c4be30edd12c5d1de7cd"
+        },
+        {
+            "date": 1667755363109,
+            "name": "C:\\Users\\Rufus\\Documents\\Work\\Projects\\pokemon-cron-mongoose\\src\\logs\\debug\\2022-11-07.log",
+            "hash": "c352b93d75a7d8649144d067b03668b283ed8ab33f31f0aa5fc0cdf59254456c"
+        }
+    ],
+    "hashType": "sha256"
+}

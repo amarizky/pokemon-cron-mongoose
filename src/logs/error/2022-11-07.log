@@ -1,0 +1,95 @@
+2022-11-07 00:33:21 error: uncaughtException: Invalid URL
+TypeError [ERR_INVALID_URL]: Invalid URL
+    at new NodeError (node:internal/errors:371:5)
+    at onParseError (node:internal/url:552:9)
+    at new URL (node:internal/url:628:5)
+    at dispatchHttpRequest (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\axios\lib\adapters\http.js:169:20)
+    at new Promise (<anonymous>)
+    at httpAdapter (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\axios\lib\adapters\http.js:105:10)
+    at Axios.dispatchRequest (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\axios\lib\core\dispatchRequest.js:46:10)
+    at Axios.request (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\axios\lib\core\Axios.js:140:33)
+    at wrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\axios\lib\helpers\bind.js:5:15)
+    at C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:66:24
+2022-11-07 00:34:03 error: uncaughtException: Cannot read properties of undefined (reading 'url')
+TypeError: Cannot read properties of undefined (reading 'url')
+    at C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:66:44
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 00:36:21 error: uncaughtException: Cannot read properties of null (reading 'url')
+TypeError: Cannot read properties of null (reading 'url')
+    at C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:69:29
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 00:36:46 error: uncaughtException: Cannot read properties of null (reading 'url')
+TypeError: Cannot read properties of null (reading 'url')
+    at C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:72:29
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 00:39:10 error: uncaughtException: Identifier 'data' has already been declared
+C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:84
+            const data = getPokeData.data;
+                  ^
+
+SyntaxError: Identifier 'data' has already been declared
+    at compileFunction (<anonymous>)
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+    at Module._compile (node:internal/modules/cjs/loader:1067:27)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-11-07 00:40:36 error: uncaughtException: Cannot read properties of undefined (reading 'url')
+TypeError: Cannot read properties of undefined (reading 'url')
+    at C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:77:61
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 00:53:38 error: [GET] /addOnePokemon >> StatusCode:: 500, Message:: Query was already executed: Pokemon.countDocuments({})
+2022-11-07 00:53:48 error: [GET] /addOnePokemon >> StatusCode:: 500, Message:: Query was already executed: Pokemon.countDocuments({})
+2022-11-07 01:01:26 error: uncaughtException: Cannot read properties of undefined (reading 'url')
+TypeError: Cannot read properties of undefined (reading 'url')
+    at PokemonService.addOnePokemon (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:68:47)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 01:01:28 error: uncaughtException: Cannot read properties of undefined (reading 'url')
+TypeError: Cannot read properties of undefined (reading 'url')
+    at PokemonService.addOnePokemon (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:68:47)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 01:05:43 error: uncaughtException: Cannot read properties of undefined (reading 'url')
+TypeError: Cannot read properties of undefined (reading 'url')
+    at PokemonService.addOnePokemon (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:71:47)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 01:05:45 error: uncaughtException: Cannot read properties of undefined (reading 'url')
+TypeError: Cannot read properties of undefined (reading 'url')
+    at PokemonService.addOnePokemon (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:71:47)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 01:06:40 error: uncaughtException: Cannot read properties of undefined (reading 'url')
+TypeError: Cannot read properties of undefined (reading 'url')
+    at PokemonService.addOnePokemon (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:71:47)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 01:06:42 error: uncaughtException: Cannot read properties of undefined (reading 'url')
+TypeError: Cannot read properties of undefined (reading 'url')
+    at PokemonService.addOnePokemon (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:71:47)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-11-07 01:07:09 error: [GET] /addOnePokemon >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'url')
+2022-11-07 11:51:00 error: uncaughtException: Cannot read properties of undefined (reading 'urlencoded')
+TypeError: Cannot read properties of undefined (reading 'urlencoded')
+    at App.initializeMiddlewares (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\app.ts:74:29)
+    at new App (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\app.ts:35:10)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:13)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2022-11-07 12:02:01 error: uncaughtException: E11000 duplicate key error collection: pokemondb.PokemonN index: id_1 dup key: { id: "Wigglytuff" }
+MongoServerError: E11000 duplicate key error collection: pokemondb.PokemonN index: id_1 dup key: { id: "Wigglytuff" }
+    at C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\mongodb\src\operations\insert.ts:85:25
+    at C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\mongodb\src\cmap\connection_pool.ts:533:13
+    at C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\mongodb\src\sdam\server.ts:369:13
+    at handleOperationResult (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\mongodb\src\sdam\server.ts:502:14)
+    at Connection.onMessage (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\mongodb\src\cmap\connection.ts:450:5)
+    at MessageStream.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\mongodb\src\cmap\connection.ts:256:56)
+    at MessageStream.emit (node:events:520:28)
+    at MessageStream.emit (node:domain:475:12)
+    at processIncomingData (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\mongodb\src\cmap\message_stream.ts:193:14)
+    at MessageStream._write (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\mongodb\src\cmap\message_stream.ts:70:5)

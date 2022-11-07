@@ -1,0 +1,476 @@
+2022-11-01 11:21:35 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\index.js:521:19)
+    at PokemonRoute.initializeRoutes (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:16:21)
+    at new PokemonRoute (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:11:14)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:75)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-11-01 11:22:48 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\index.js:521:19)
+    at PokemonRoute.initializeRoutes (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:16:21)
+    at new PokemonRoute (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:11:14)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:75)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-11-01 11:28:04 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\index.js:521:19)
+    at PokemonRoute.initializeRoutes (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:16:21)
+    at new PokemonRoute (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:11:14)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:75)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-11-01 11:38:35 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\index.js:521:19)
+    at PokemonRoute.initializeRoutes (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:16:21)
+    at new PokemonRoute (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:11:14)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:75)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-11-01 11:38:53 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\index.js:521:19)
+    at PokemonRoute.initializeRoutes (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:16:21)
+    at new PokemonRoute (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:11:14)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:75)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-11-01 11:39:10 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\index.js:521:19)
+    at PokemonRoute.initializeRoutes (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:16:21)
+    at new PokemonRoute (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:11:14)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:75)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-11-01 11:40:44 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\index.js:521:19)
+    at PokemonRoute.initializeRoutes (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:16:21)
+    at new PokemonRoute (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:11:14)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:75)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-11-01 11:41:47 error: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as get] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\express\lib\router\index.js:521:19)
+    at PokemonRoute.initializeRoutes (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:16:21)
+    at new PokemonRoute (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:11:14)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:10:75)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-11-01 11:44:07 error: [GET] /addPokemon >> StatusCode:: 500, Message:: Pokemon validation failed: stats: Path `stats` is required., weight: Path `weight` is required., img: Path `img` is required., species: Path `species` is required., name: Path `name` is required., id: Path `id` is required.
+2022-11-01 11:48:42 error: [GET] /addPokemon >> StatusCode:: 500, Message:: Pokemon validation failed: stats: Path `stats` is required., weight: Path `weight` is required., img: Path `img` is required., species: Path `species` is required., name: Path `name` is required., id: Path `id` is required.
+2022-11-01 12:55:40 error: [GET] /addPokemon >> StatusCode:: 500, Message:: Pokemon validation failed: stats: Path `stats` is required., weight: Path `weight` is required., img: Path `img` is required., species: Path `species` is required., name: Path `name` is required., id: Path `id` is required.
+2022-11-01 12:58:31 error: [GET] /addPokemon >> StatusCode:: 500, Message:: Pokemon validation failed: stats: Path `stats` is required., weight: Path `weight` is required., img: Path `img` is required., species: Path `species` is required., name: Path `name` is required., id: Path `id` is required.
+2022-11-01 12:58:54 error: [GET] /addPokemon >> StatusCode:: 500, Message:: Pokemon validation failed: stats: Path `stats` is required., weight: Path `weight` is required., img: Path `img` is required., species: Path `species` is required., name: Path `name` is required., id: Path `id` is required.
+2022-11-01 13:00:28 error: [GET] /addPokemon >> StatusCode:: 500, Message:: Pokemon validation failed: stats: Path `stats` is required., weight: Path `weight` is required., img: Path `img` is required., species: Path `species` is required., name: Path `name` is required., id: Path `id` is required.
+2022-11-01 13:01:27 error: [GET] /addPokemon >> StatusCode:: 500, Message:: E11000 duplicate key error collection: pokemondb.PokemonN index: id_1 dup key: { id: "Metapod" }
+2022-11-01 13:14:54 error: [GET] /addPokemon >> StatusCode:: 500, Message:: E11000 duplicate key error collection: pokemondb.PokemonN index: id_1 dup key: { id: "Metapod" }
+2022-11-01 13:14:54 error: [GET] /addPokemon >> StatusCode:: 500, Message:: E11000 duplicate key error collection: pokemondb.PokemonN index: id_1 dup key: { id: "Metapod" }
+2022-11-01 13:15:38 error: [GET] /addPokemon >> StatusCode:: 500, Message:: E11000 duplicate key error collection: pokemondb.PokemonN index: id_1 dup key: { id: "Metapod" }
+2022-11-01 13:19:51 error: [GET] /addPokemon >> StatusCode:: 409, Message:: This email {
+  id: 'Metapod',
+  name: 'Metapod',
+  types: [ 'Bug' ],
+  abilities: [
+    {
+      name: 'Shed Skin',
+      effect: 'After each turn, this Pokémon has a 33% of being cured of any major status ailment.',
+      _id: new ObjectId("6360ba86147cdf8f9216733d")
+    }
+  ],
+  moves: [ 'String Shot', 'Harden', 'Iron Defense', 'Bug Bite', 'Electroweb' ],
+  species: 'Metapod',
+  img: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png',
+  weight: 99,
+  encounters: [
+    'Eterna Forest Area',
+    'Johto Route 30 Area',
+    'Johto Route 31 Area',
+    'Ilex Forest Area',
+    'Johto Route 34 Area'
+  ],
+  stats: {
+    hp: 50,
+    attack: 20,
+    defense: 55,
+    special_attack: 25,
+    special_defense: 25,
+    speed: 30,
+    _id: new ObjectId("6360ba86147cdf8f9216733e")
+  },
+  _id: new ObjectId("6360ba86147cdf8f9216733c")
+} already exists
+2022-11-01 13:20:14 error: [GET] /addPokemon >> StatusCode:: 409, Message:: This email Metapod already exists
+2022-11-01 14:03:41 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:04:11 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:04:28 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:05:36 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:05:46 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:06:23 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:07:14 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:09:07 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:10:29 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:11:49 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:13:37 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:16:04 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:16:26 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:16:46 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:18:50 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)
+2022-11-01 14:31:45 error: uncaughtException: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\node-fetch\src\index.js from C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts not supported.
+Instead change the require of index.js in C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts to a dynamic import() which is available in all CommonJS modules.
+    at Object.require.extensions.<computed> [as .js] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:851:20)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:6:46)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\controllers\pokemon.controller.ts:4:51)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\routes\pokemon.route.ts:5:54)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\server.ts:8:49)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:857:29)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\index.js:859:16)
+    at phase4 (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:466:20)
+    at bootstrap (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:54:12)
+    at main (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:33:12)
+    at Object.<anonymous> (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\dist\bin.js:579:5)

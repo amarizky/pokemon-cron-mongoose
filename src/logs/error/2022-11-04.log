@@ -1,0 +1,16 @@
+2022-11-04 14:10:07 error: uncaughtException: Illegal break statement
+C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\src\services\pokemon.service.ts:101
+                            break;
+                            ^^^^^
+
+SyntaxError: Illegal break statement
+    at compileFunction (<anonymous>)
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1032:15)
+    at Module._compile (node:internal/modules/cjs/loader:1067:27)
+    at Module.m._compile (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\Rufus\Documents\Work\Projects\pokemon-cron-mongoose\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
