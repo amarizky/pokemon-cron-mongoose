@@ -3,9 +3,11 @@ import pokemonModel from '@/models/pokemon.model';
 import { Pokemon } from '@/interfaces/pokemon.interface';
 import axios from 'axios';
 import { titleCase } from 'title-case';
+import { logger } from '@/utils/logger';
 
 class PokemonService {
     public pokemon = pokemonModel;
+    public c = 0;
 
     public async findAllPokemon(): Promise<Pokemon[]> {
         const findPokemon: Pokemon[] = await this.pokemon.find();
@@ -24,23 +26,26 @@ class PokemonService {
         return findPokemon;
     }
 
-    public async addOnePokemon(): Promise<String> {
-        var c = await this.pokemon.countDocuments();
-        var getPokeApi = await axios.get("https://pokeapi.co/api/v2/pokemon?limit=50");
-        var data = getPokeApi.data.results;
-        var dataKeys = Object.keys(data);
+    public async getExistingPokemon(): Promise<number> {
+        return (await this.pokemon.countDocuments()) + 1;
+    }
 
-        // if result.length == data count in database
-        if (dataKeys.length == c) return '';
+    public async addOnePokemon(): Promise<void> {
+        if (this.c == 0) this.c = await this.getExistingPokemon();
+        let data = null;
+        try {
+            data = (await axios.get("https://pokeapi.co/api/v2/pokemon/" + this.c)).data;
+        } catch (error) {
+            logger.info('All data has been received');
+            return;
+        }
 
-        var nthData = data[dataKeys[c]];
-        var data = (await axios(nthData.url)).data;
-        var encounters = await axios.get(data.location_area_encounters);
-        var abilities = [];
+        let encounters = (await axios.get(data.location_area_encounters)).data;
+        let abilities = [];
 
-        for (var ab of data.abilities) {
-            var ab_fetch = await axios.get(ab.ability.url);
-            var ability = {
+        for (let ab of data.abilities) {
+            let ab_fetch = await axios.get(ab.ability.url);
+            let ability = {
                 'name': titleCase(ab_fetch.data.name),
                 'effect': ab_fetch.data.effect_entries.filter((e) => {
                     return e.language.name == 'en';
@@ -50,7 +55,7 @@ class PokemonService {
         }
 
         // Inserting Pokemon data
-        await new pokemonModel({
+        let pokemonData = new pokemonModel({
             // Required data
             'id': titleCase(data.name),
             'name': titleCase(data.name),
@@ -61,7 +66,7 @@ class PokemonService {
             // Additional data
             'img': data.sprites.front_default,
             'weight': data.weight,
-            'encounters': encounters.data.map((e) => titleCase(e.location_area.name)),
+            'encounters': encounters.map((e) => titleCase(e.location_area.name)),
             'stats': {
                 'hp': data.stats[0].base_stat,
                 'attack': data.stats[1].base_stat,
@@ -70,9 +75,18 @@ class PokemonService {
                 'special_defense': data.stats[4].base_stat,
                 'speed': data.stats[5].base_stat,
             },
-        }).save();
+        });
 
-        return titleCase(data.name);
+        try {
+            await pokemonData.save();
+        } catch (error) {
+            logger.warn('Error! Retrying on the next cycle')
+        }
+
+        logger.info('Added pokemon: ' + titleCase(data.name));
+
+        this.c++;
+        return;
     }
 }
 
